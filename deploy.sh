@@ -2,4 +2,4 @@
 
 # source .env
 
-npx hardhat run scripts/deploy.js --network localhost
+npx hardhat run scripts/deploy.js --network rinkeby
